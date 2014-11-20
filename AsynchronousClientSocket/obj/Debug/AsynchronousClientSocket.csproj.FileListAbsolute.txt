@@ -1,0 +1,6 @@
+D:\C#Advance\practice_2014_10_24\SocketClientTest\AsynchronousClientSocket\bin\Debug\AsynchronousClientSocket.exe.config
+D:\C#Advance\practice_2014_10_24\SocketClientTest\AsynchronousClientSocket\bin\Debug\AsynchronousClientSocket.exe
+D:\C#Advance\practice_2014_10_24\SocketClientTest\AsynchronousClientSocket\bin\Debug\AsynchronousClientSocket.pdb
+D:\C#Advance\practice_2014_10_24\SocketClientTest\AsynchronousClientSocket\obj\Debug\AsynchronousClientSocket.exe
+D:\C#Advance\practice_2014_10_24\SocketClientTest\AsynchronousClientSocket\obj\Debug\AsynchronousClientSocket.pdb
+D:\C#Advance\practice_2014_10_24\SocketClientTest\AsynchronousClientSocket\obj\Debug\AsynchronousClientSocket.csprojResolveAssemblyReference.cache

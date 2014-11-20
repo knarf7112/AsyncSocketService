@@ -1,0 +1,6 @@
+D:\C#Advance\practice_2014_10_24\SocketClientTest\SocketClientTest\bin\Debug\SocketClientTest.exe.config
+D:\C#Advance\practice_2014_10_24\SocketClientTest\SocketClientTest\bin\Debug\SocketClientTest.exe
+D:\C#Advance\practice_2014_10_24\SocketClientTest\SocketClientTest\bin\Debug\SocketClientTest.pdb
+D:\C#Advance\practice_2014_10_24\SocketClientTest\SocketClientTest\obj\Debug\SocketClientTest.exe
+D:\C#Advance\practice_2014_10_24\SocketClientTest\SocketClientTest\obj\Debug\SocketClientTest.pdb
+D:\C#Advance\practice_2014_10_24\SocketClientTest\SocketClientTest\obj\Debug\SocketClientTest.csprojResolveAssemblyReference.cache
